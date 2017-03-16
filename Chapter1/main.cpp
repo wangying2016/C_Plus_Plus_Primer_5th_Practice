@@ -2,14 +2,6 @@
 #include "Sales_item.h"
 
 int main()
-
-
-
-
-
-
-
-
 {
 	Sales_item total, trans;
 	if (std::cin >> total) {
