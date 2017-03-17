@@ -1,0 +1,35 @@
+argument
+assignment
+block
+buffer
+built-in type
+cerr
+character string literal
+class
+class type
+clog
+condition 
+curly brace
+data structure
+edit-compile-debug
+end-of-file
+expression
+function
+function body 
+function name  
+initialize 
+library type
+main
+manipulator
+member function
+method  
+namespace
+ostream
+parameter list
+return type
+source file
+standard error
+operator
+cout
+cin
+#include 
